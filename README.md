@@ -1,8 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=EDE2D8&height=300&section=header&text=Welcome%20to%20YaBBi's%20Blog&fontSize=60&fontColor=3D382F)
+![header](https://capsule-render.vercel.app/api?type=waving&color=EDE2D8&height=150)
 
-# About YaBBi
-
-# Tech Stack 
 
 | ${\bf{\color{#3D382F}Category}}$ | ${\bf{\color{#3D382F}Technologies}}$  |
 |----------|--------------|
@@ -19,7 +16,8 @@
 | ${\text{\color{#3D382F}SQL}}$ | ![MySQL](https://img.shields.io/badge/MySQL-EDE2D8?style=flat-square&logo=MySQL&logoColor=3D382F) ![SQLite](https://img.shields.io/badge/SQLite-EDE2D8?style=flat-square&logo=SQLite&logoColor=3D382F) |
 | ${\text{\color{#3D382F}Project Management}}$ | ![Slack](https://img.shields.io/badge/Slack-EDE2D8?style=flat-square&logo=Slack&logoColor=3D382F) ![Notion](https://img.shields.io/badge/Notion-EDE2D8?style=flat-square&logo=Notion&logoColor=3D382F) ![Google Drive](https://img.shields.io/badge/GoogleDrive-EDE2D8?style=flat-square&logo=googledrive&logoColor=3D382F) |
 
+
 ![YaBBiOn's GitHub stats](https://github-readme-stats.vercel.app/api?username=YaBBiOn&show_icons=true&title_color=3D382F&text_color=3D382F&icon_color=EFC8AA)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=EDE2D8&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=EDE2D8&height=150&section=footer)
